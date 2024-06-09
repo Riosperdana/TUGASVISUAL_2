@@ -62,12 +62,12 @@ int main(int argc, char *argv[])
 
     // karyawan k;
     // k.setNik("101010");
-    // k.setNAMA("FIQRI");
-    // k.setALAMAT("Banjarmasin Barat");
-    // k.setTELP("081999999");
+    // k.setNAMA("RIOS");
+    // k.setALAMAT("Banjarmasin Timur");
+    // k.setTELP("085369998900");
     // k.setGolongan("I");
-    // k.setStatusNikah("Menikah");
-    // k.setJumlahAnak(1);
+    // k.setStatusNikah("Belum Menikah");
+    // k.setJumlahAnak(0);
     // k.setMasaKerja(2);
     // qDebug()<<"NIK "<<k.getNIK()<<"\n";
     // qDebug()<<"NAMA "<<k.getNAMA()<<"\n";
